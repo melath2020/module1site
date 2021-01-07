@@ -1,0 +1,22 @@
+h1{
+    color: darkmagenta;
+}
+h2{
+    color: darkslateblue;
+    text-align: center;
+}
+H3{
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+H4{
+    text-align: center;
+    color: rgb(32, 13, 13);
+    font-family: 'Times New Roman', Times, serif;
+}
+H6{
+    text-align: center;
+    color: rgb(32, 13, 13);
+    font-family: 'Times New Roman', Times, serif;
+}
